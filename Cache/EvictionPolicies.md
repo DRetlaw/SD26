@@ -1,0 +1,6 @@
+Random
+FIFO
+LRU
+LFU
+MRU
+TTL
